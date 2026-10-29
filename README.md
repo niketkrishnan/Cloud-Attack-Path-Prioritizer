@@ -56,6 +56,6 @@ The analyzer never authenticates to cloud accounts or changes resources. The nex
 - [LLM Firewall and RAG Security Lab](https://github.com/niketkrishnan/llm-firewall-rag-security-lab) — trust boundaries for AI applications.
 - [SBOM Supply-Chain Intelligence](https://github.com/niketkrishnan/sbom-supply-chain-intelligence) — software dependency risk decisions.
 - [Identity Compromise Detector](https://github.com/niketkrishnan/identity-compromise-detector) — explainable identity risk.
-- [Portfolio site](https://github.com/niketkrishnan/HTML-Website) — project overview and contact details.
+- [Portfolio site](https://niketkrishnan.github.io) — resume-aligned project map.
 
 For security concerns, use a private GitHub Security Advisory or contact [@niketkrishnan](https://github.com/niketkrishnan). Use synthetic fixtures only in public issues.
