@@ -1,0 +1,21 @@
+{
+  "resources": 6,
+  "relations": 5,
+  "findings": [
+    {
+      "path": [
+        "public-api",
+        "app-role",
+        "prod-db"
+      ],
+      "score": 1.0,
+      "reasons": [
+        "path starts at a public resource",
+        "path reaches a sensitive resource",
+        "multiple trust or privilege transitions"
+      ],
+      "remediation": "Remove public exposure, constrain the trust edge, and apply least privilege to the identity on this path."
+    }
+  ],
+  "data_note": "Local authorized cloud-configuration fixture; read-only analysis."
+}
